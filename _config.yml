@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
+title: Personal Webpage
 email: ldelafue@arizona@edu
 url: https://github.com/ldelafue/webpage
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+keywords: "I do not have ideas...mmm maybe I do not have time to make them true"
+skills: "Hydrologist - Civil Engineer - etc.."
 meta_author: Delafuente Luis
 
 # Google webmaster tools
@@ -21,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: ldelafue
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: XXX
   location: Location
   social: Around the Web
   credits: Credits
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: XXX
+  - line: XXX
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
